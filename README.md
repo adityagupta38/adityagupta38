@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityagupta38
+- 👋 Hi, I’m Aditya Gupta
 - 👀 I’m interested in ...Web Development & Backend Development
 - 🌱 I have learned ...Python, Django,Mysql
 - 💞️ I’m looking to collaborate on ...
