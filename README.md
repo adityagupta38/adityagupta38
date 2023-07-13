@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Gupta
 - 👀 I’m interested in ...Web Development & Backend Development
-- 🌱 I have learned ...Python, Django,Mysql
+- 🌱 I have learned ...Python, Django,Mysql,Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...My Contact Mail is: aditya.gupta38@gmail.com & Contact No is +91 9595484210
 - 
